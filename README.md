@@ -13,7 +13,7 @@ This project focuses on analyzing YouTube channel performance data to extract me
 
 ## How to Run
 
--Clone the repository : git clone git@github.com:aashna-03/Youtube-Data-Analysis.git
+-Clone the repository : git clone https://github.com/aashna-03/Youtube-Data-Analysis.git
 
 -Open the notebook in Jupyter or VS Code.
 
